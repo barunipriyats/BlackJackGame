@@ -39,7 +39,7 @@ Once you hit the 'Stand' button, the dealer reveals their cards.
 Step 4 - See Who is Closer to 21 <br />
 If your hand is closer to 21 than that of the dealer, you bust the dealer and win. If the dealer has 21 or a closer score to 21 than any of the other players, the dealer wins.
 
-#Screenshot
+# Screenshot
 ***
 ![Here is a screenshot of what it looks like](screenshot.PNG)
 
