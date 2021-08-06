@@ -1,6 +1,6 @@
 # BlackJackGame
 ***
-Blackjack game is a classic casino game of luck and strategy. It is the most popular and most playing casino game in the entire world and is also known as twenty one. 
+Blackjack game is a classic casino game of luck and strategy. It is the most popular and most playing casino game in the entire world and is also known as twenty one. <br />
 The goal of blackjack is simple - to get as close as possible to 21 without going over, and to have a higher hand than the dealer. 
 If the dealer goes over 21, they bust and lose the game. The same goes for you.
 Here the dealer is the computer itself. 
