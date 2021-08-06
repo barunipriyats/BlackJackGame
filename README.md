@@ -7,17 +7,17 @@ Here the dealer is the computer itself.
 
 # General Info
 ***
-Step 1 - Decide whether to Hit or Stand
+Step 1 - Decide whether to Hit or Stand <br />
 Work out the value of your hand, as well as that of the dealer, to get as close as possible to 21 without going bust by pressing the 'Hit' button.
 
-Step 2 - Your Hand Value
+Step 2 - Your Hand Value <br />
 As a result of the move you just made, you’ll probably have a new hand value. 
 You'll remain in the game if your hand is valued at 21 or anything less. Once done, press the 'Stand' button. Now the chance goes to the dealer. 
 
-Step 3 - Dealer Reveals Their Cards
+Step 3 - Dealer Reveals Their Cards <br />
 Once you hit the 'Stand' button, the dealer reveals their cards. 
 
-Step 4 - See Who is Closer to 21
+Step 4 - See Who is Closer to 21 <br />
 If your hand is closer to 21 than that of the dealer, you bust the dealer and win. If the dealer has 21 or a closer score to 21 than any of the other players, the dealer wins.
 
 #Screenshot
